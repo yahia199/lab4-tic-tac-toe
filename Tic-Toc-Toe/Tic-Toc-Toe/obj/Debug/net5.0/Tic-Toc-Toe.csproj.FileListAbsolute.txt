@@ -1,0 +1,16 @@
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\bin\Debug\net5.0\Tic-Toc-Toe.exe
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\bin\Debug\net5.0\Tic-Toc-Toe.deps.json
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\bin\Debug\net5.0\Tic-Toc-Toe.runtimeconfig.json
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\bin\Debug\net5.0\Tic-Toc-Toe.runtimeconfig.dev.json
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\bin\Debug\net5.0\Tic-Toc-Toe.dll
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\bin\Debug\net5.0\ref\Tic-Toc-Toe.dll
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\bin\Debug\net5.0\Tic-Toc-Toe.pdb
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\Tic-Toc-Toe.csproj.AssemblyReference.cache
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\Tic-Toc-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\Tic-Toc-Toe.AssemblyInfoInputs.cache
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\Tic-Toc-Toe.AssemblyInfo.cs
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\Tic-Toc-Toe.csproj.CoreCompileInputs.cache
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\Tic-Toc-Toe.dll
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\ref\Tic-Toc-Toe.dll
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\Tic-Toc-Toe.pdb
+C:\Users\D-C\lab 4\lab4-tic-tac-toe\Tic-Toc-Toe\Tic-Toc-Toe\obj\Debug\net5.0\Tic-Toc-Toe.genruntimeconfig.cache
